@@ -262,7 +262,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you wish to contact me, please fill in your relevant information in the following section.
       # Contact (add or remove contact options as necessary)
       email: andrewzhangky@outlook.com
       phone: +86 131 0442 1208
@@ -275,13 +275,11 @@ sections:
         country: People's Republic of China
         country_code: PRC
       directions: No. 2699 Qianjin Avenue, Changchun
-      office_hours:
-        - ''
-        - ''
+      office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '43.9004'
-        longitude: '125.2571'  
+        latitude: '43.900439'
+        longitude: '125.257142'  
       contact_links:
         - icon: 
           icon_pack: 
