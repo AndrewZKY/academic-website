@@ -134,6 +134,24 @@ sections:
           organization_url: http://jsjds.blcu.edu.cn/
           title: Chinese Collegiate Computing Competition Provincial Second Prize
           url: ''
+        - certificate_url: ''
+          date_end: '2022-09-01'
+          date_start: '2023-09-01'
+          description: ''
+          icon: 
+          organization: Jilin University
+          organization_url: ''
+          title: Second Class Schloarship of Jilin University
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-09-01'
+          date_start: '2023-09-01'
+          description: ''
+          icon: 
+          organization: School of Economics, Jilin University
+          organization_url: ''
+          title: Outstanding Student, School of Economics
+          url: ''
     design:
       columns: '2'
   - block: collection
