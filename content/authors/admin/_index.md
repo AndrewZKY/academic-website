@@ -42,7 +42,7 @@ education:
     - course: 
       institution: 
       year: 
-    - course: BSc in Finance
+    - course: BSc in Finance(Minor CS)
       institution: Jilin University
       year: 2021
 
@@ -114,11 +114,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/Kaiyu Zhang(English CV).pdf
+    link: static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-行远自迩,笃行不怠。To travel far and near, to be steadfast in one's actions.Embark on a journey far and wide, steadfast in action. In the voyage of life, let our actions speak volumes, taking tangible steps towards distant horizons. Regardless of our location, let us stay true to our original aspirations, never slackening in our commitment to action, and always maintaining a relentless pursuit of our dreams. Only by doing so can we embrace a more expansive future and allow our lives to radiate a unique brilliance in the course of our journey.
+行远自迩,笃行不怠。To travel far and near, to be steadfast in one's actions. Embark on a journey far and wide, steadfast in action. In the voyage of life, let our actions speak volumes, taking tangible steps towards distant horizons. Regardless of our location, let us stay true to our original aspirations, never slackening in our commitment to action, and always maintaining a relentless pursuit of our dreams. Only by doing so can we embrace a more expansive future and allow our lives to radiate a unique brilliance in the course of our journey.
 {style="text-align: justify;"}

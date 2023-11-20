@@ -62,27 +62,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Undergraduate student
+          company: Jilin University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-JLU
+          location: Changchun, China
+          date_start: '2021-09-01'
           date_end: ''
+          description: |2-
+              Courses include:
+
+              * Finance
+              * Statistics
+              * Advanced Language Programme Design
+              * Investment Banking
+        - title: Intern
+          company: Ernst&Young
+          company_url: ''
+          company_logo: org-EY
+          location: Beijing, China
+          date_start: '2024-01-01'
+          date_end: '2024-03-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Data analysis
+              * Account statement analysis
+              * Rist management
     design:
       columns: '2'
   - block: accomplishments
@@ -98,32 +104,35 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-04-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: chart-scatter
+          icon_pack: fas
+          organization: COMAP
+          organization_url: https://www.comap.com/contests/mcm-icm
+          title: Mathematical/Interdisciplinary Contest In Modeling(US) Honrable Mention
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-09-10'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: chart-scatter-3d
+          icon_pack: fas
+          organization: CUMCM
+          organization_url: http://www.mcm.edu.cn/
+          title: China Undergraduate Mathematical Contest In Modeling Provincial Fist Prize
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-07-01'
+          date_start: '2022-03-01'
+          description: ''
+          icon: desktop
+          icon_pack: fas
+          organization: Four C
+          organization_url: http://jsjds.blcu.edu.cn/
+          title: Chinese Collegiate Computing Competition Provincial Second Prize
           url: ''
     design:
       columns: '2'
