@@ -116,7 +116,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-09-10'
+          date_start: '2023-09-01'
           description: ''
           icon: chart-scatter-3d
           icon_pack: fas
