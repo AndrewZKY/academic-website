@@ -251,11 +251,11 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: tag_cloud
+    #content:
+     # title: Popular Topics
+    #design:
+      #columns: '2'
   - block: contact
     id: contact
     content:
@@ -278,8 +278,8 @@ sections:
       office_hours: ''
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '43.900439'
-        longitude: '125.257142'  
+        latitude: '43.824175'
+        longitude: '125.289795'  
       contact_links:
         - icon: 
           icon_pack: 
