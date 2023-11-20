@@ -53,37 +53,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: C/C++
         description: ''
         percent: 40
-        icon: database
+        icon: c
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: plane
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
         icon_pack: fas
-      - name: Photography
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: gamepad
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,28 +93,28 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: mailto:andrewzhangky@outlook.com
+  - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0ODI4NTgyMw==&scene=124#wechat_redirect
+    label: 
     display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+      header: 
+  - icon: zhihu # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.zhihu.com/people/b35465eb47fdff7f7b3330fbaa358604
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/AndrewZKY
+  - icon: book-open
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.xiaohongshu.com/user/profile/63b57e160000000026010961?xhsshare=CopyLink&appuid=63b57e160000000026010961&apptime=1700470198
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: Kaiyu Zhang(English CV).pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
