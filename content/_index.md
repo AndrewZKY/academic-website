@@ -89,6 +89,20 @@ sections:
               * Data analysis
               * Account statement analysis
               * Rist management
+              - title: Undergraduate student
+        - title: President
+          company: JLU-SIA
+          company_url: ''
+          company_logo: ''
+          location: Changchun, China
+          date_start: '2023-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Manage asscociation
+              * Contact partners
+              * Organise seminars
     design:
       columns: '2'
   - block: accomplishments
