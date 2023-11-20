@@ -88,8 +88,7 @@ sections:
 
               * Data analysis
               * Account statement analysis
-              * Rist management
-              - title: Undergraduate student
+              * Risk management
         - title: President
           company: JLU-SIA
           company_url: ''

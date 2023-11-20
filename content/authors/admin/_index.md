@@ -42,7 +42,7 @@ education:
     - course: 
       institution: 
       year: 
-    - course: BSc in Finance(Minor CS)
+    - course: BSc in Finance(Minor in CS)
       institution: Jilin University
       year: 2021
 
