@@ -101,24 +101,24 @@ social:
     display:
       header: 
   - icon: zhihu # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.zhihu.com/people/b35465eb47fdff7f7b3330fbaa358604
   - icon: github
     icon_pack: fab
     link: https://github.com/AndrewZKY
   - icon: book-open
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.xiaohongshu.com/user/profile/63b57e160000000026010961?xhsshare=CopyLink&appuid=63b57e160000000026010961&apptime=1700470198
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: Kaiyu Zhang(English CV).pdf
+    link: static/uploads/Kaiyu Zhang(English CV).pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+行远自迩,笃行不怠。To travel far and near, to be steadfast in one's actions.Embark on a journey far and wide, steadfast in action. In the voyage of life, let our actions speak volumes, taking tangible steps towards distant horizons. Regardless of our location, let us stay true to our original aspirations, never slackening in our commitment to action, and always maintaining a relentless pursuit of our dreams. Only by doing so can we embrace a more expansive future and allow our lives to radiate a unique brilliance in the course of our journey.
 {style="text-align: justify;"}
