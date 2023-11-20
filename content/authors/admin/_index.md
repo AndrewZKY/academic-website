@@ -30,7 +30,7 @@ bio: My research interests include industrial economy, intelligent economy, quan
 # Interests to show in About widget
 interests:
   - Quantitative Finance
-  - Computational Linguistics
+  - Data Science
   - Microeconomics
 
 # Education to show in About widget
