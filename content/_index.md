@@ -65,7 +65,7 @@ sections:
         - title: Undergraduate student
           company: Jilin University
           company_url: ''
-          company_logo: org-JLU
+          company_logo: ''
           location: Changchun, China
           date_start: '2021-09-01'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Intern
           company: Ernst&Young
           company_url: ''
-          company_logo: org-EY
+          company_logo: ''
           location: Beijing, China
           date_start: '2024-01-01'
           date_end: '2024-03-31'
