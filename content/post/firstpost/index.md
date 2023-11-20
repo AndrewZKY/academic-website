@@ -3,7 +3,7 @@ title: 实习｜安永（北京）审计寒假实习
 date: '2023-11-14'
 summary: 简历->网申->在线测评->面试->Offer
 authors: 
-  - 张楷煜
+  - admin
 ---
 
 
